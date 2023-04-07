@@ -40,7 +40,6 @@ class ProductManager {
 //   title: "zapatilla adidas",
 //   description: "zapatilla deportive",
 //   price: 334,
-
 //   thumbnail: "./fotos2.js",
 //   Stock: "5"
 // });
